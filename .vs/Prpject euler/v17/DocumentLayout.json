@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\clair\\source\\repos\\Prpject euler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4C2FA2-676A-41A1-87BC-51837831485D}|Prpject euler\\Prpject euler.csproj|c:\\users\\clair\\source\\repos\\prpject euler\\prpject euler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4C2FA2-676A-41A1-87BC-51837831485D}|Prpject euler\\Prpject euler.csproj|solutionrelative:prpject euler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4C2FA2-676A-41A1-87BC-51837831485D}|Prpject euler\\Prpject euler.csproj|c:\\users\\clair\\source\\repos\\prpject euler\\prpject euler\\sequencesof3or5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4C2FA2-676A-41A1-87BC-51837831485D}|Prpject euler\\Prpject euler.csproj|solutionrelative:prpject euler\\sequencesof3or5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SequencesOf3Or5.cs",
+              "DocumentMoniker": "C:\\Users\\clair\\source\\repos\\Prpject euler\\Prpject euler\\SequencesOf3Or5.cs",
+              "RelativeDocumentMoniker": "Prpject euler\\SequencesOf3Or5.cs",
+              "ToolTip": "C:\\Users\\clair\\source\\repos\\Prpject euler\\Prpject euler\\SequencesOf3Or5.cs",
+              "RelativeToolTip": "Prpject euler\\SequencesOf3Or5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:34:12.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\clair\\source\\repos\\Prpject euler\\Prpject euler\\Program.cs",
+              "RelativeDocumentMoniker": "Prpject euler\\Program.cs",
+              "ToolTip": "C:\\Users\\clair\\source\\repos\\Prpject euler\\Prpject euler\\Program.cs*",
+              "RelativeToolTip": "Prpject euler\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:54:31.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
